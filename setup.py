@@ -17,7 +17,7 @@ if __name__ == "__main__":
     setup(
         name='csce590',
         version="0.0.1",
-        description='Python code for the UofSC couse CSCE 590: Analysis of neuroscience data.',
+        description='Python code for the UofSC course CSCE 590: Analysis of neuroscience data.',
         python_requires='>=3.5',
         author="Christian O'Reilly",
         author_email='christian.oreilly@gmail.com',
