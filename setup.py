@@ -15,12 +15,12 @@ if __name__ == "__main__":
                     install_requires.append(req)
 
     setup(
-        name='acareeg',
+        name='csce590',
         version="0.0.1",
-        description='Code to work with EEG at ACAR.',
+        description='Python code for the UofSC couse CSCE 590: Analysis of neuroscience data.',
         python_requires='>=3.5',
         author="Christian O'Reilly",
         author_email='christian.oreilly@gmail.com',
-        url='https://github.com/christian-oreilly/acareeg',
+        url='https://github.com/christian-oreilly/csce590',
         install_requires=install_requires
     )
